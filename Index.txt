@@ -9,7 +9,7 @@
 
   <iframe 
     style="border:none; width:100vw; height:100vh;" 
-    src="<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/mW3B5cNK0KZa3x8Uh0uTAa/Untitled?node-id=6-1009&viewport=-240%2C-229%2C0.14&scaling=scale-down&content-scaling=fixed&starting-point-node-id=6%3A1010&show-proto-sidebar=1&page-id=0%3A1&embed-host=share" allowfullscreen></iframe>"
+    src="https://embed.figma.com/proto/mW3B5cNK0KZa3x8Uh0uTAa/Untitled?node-id=6-1009&viewport=-240%2C-229%2C0.14&scaling=scale-down&content-scaling=fixed&starting-point-node-id=6%3A1010&show-proto-sidebar=1&page-id=0%3A1&embed-host=share"
     allowfullscreen>
   </iframe>
 
